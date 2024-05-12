@@ -12,7 +12,7 @@
 <!-- Introduction in Typing -->
 <h1 align="center">
   <a href=" https://readme-typing-svg.herokuapp.com/demo/">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70F44&width=450&height=70&lines=Hello,+There!+👋;This+is+Pritam+Das....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=%23F70F44&width=450&height=70&lines=Hello,+There!+👋;This+is+Jyotsna+Bharti....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
